@@ -36,8 +36,7 @@ To run the analysis and model training:
 3. Open and run the `Customer Churn Prediction Using XGBoost.ipynb` notebook in a Jupyter environment.
 
 ## Author
-Zain Haidar
-LinkedIn: https://www.linkedin.com/in/zain-haidar/
+Zoyidjon nAsretdinov
 
 ## Acknowledgements
-Walter Reade, Ashley Chow. (2024). Binary Classification with a Bank Churn Dataset . Kaggle. https://kaggle.com/competitions/playground-series-s4e1
+Zoyidjon Nasretdinov. (2024). Binary Classification with a Bank Churn Dataset 
